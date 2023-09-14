@@ -1,10 +1,8 @@
-.gitignore
+# Ignore everything
+*
 
-documentatie/presentatie.pptx
-documentatie/oefeningen.docx
+# But not these files...
+!documentatie/*.pdf
+!projects/*.project
+!projects/*.projectarchive
 
-projects/*.opt
-projects/*.precompilecache
-projects/*.bootinfo
-projects/*.bootinfo_guids
-projects/*.compileinfo
