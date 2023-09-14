@@ -1,0 +1,8 @@
+documentatie/presentatie.pptx
+documentatie/oefeningen.docx
+
+projects/*.opt
+projects/*.precompilecache
+projects/*.bootinfo
+projects/*.bootinfo_guids
+projects/*.compileinfo
