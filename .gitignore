@@ -2,6 +2,7 @@
 *
 
 # But not these files...
+!.gitignore
 !documentatie/*.pdf
 !projects/*.project
 !projects/*.projectarchive
